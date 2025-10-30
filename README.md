@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SathishTECHY/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SathishTECHY/LeetCode/tree/master/1086-divisor-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SathishTECHY/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SathishTECHY/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/SathishTECHY/LeetCode/tree/master/1086-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
