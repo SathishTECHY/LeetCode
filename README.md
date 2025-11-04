@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SathishTECHY/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SathishTECHY/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
