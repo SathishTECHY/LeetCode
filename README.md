@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SathishTECHY/LeetCode/tree/master/0002-add-two-numbers) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
