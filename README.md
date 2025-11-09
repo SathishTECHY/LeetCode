@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SathishTECHY/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SathishTECHY/LeetCode/tree/master/1086-divisor-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SathishTECHY/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SathishTECHY/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SathishTECHY/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
