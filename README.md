@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/SathishTECHY/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/SathishTECHY/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SathishTECHY/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/SathishTECHY/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/SathishTECHY/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Union Find
 |  |
 | ------- |
