@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SathishTECHY/LeetCode/tree/master/0002-add-two-numbers) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SathishTECHY/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/SathishTECHY/LeetCode/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -112,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2573-remove-nodes-from-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
