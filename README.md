@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/SathishTECHY/LeetCode/tree/master/1651-shuffle-string) |
+| [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SathishTECHY/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Union Find
 |  |
 | ------- |
