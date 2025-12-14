@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/SathishTECHY/LeetCode/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SathishTECHY/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/SathishTECHY/LeetCode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/SathishTECHY/LeetCode/tree/master/1651-shuffle-string) |
 | [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3606-coupon-code-validator](https://github.com/SathishTECHY/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SathishTECHY/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SathishTECHY/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SathishTECHY/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/SathishTECHY/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SathishTECHY/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3606-coupon-code-validator](https://github.com/SathishTECHY/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Union Find
 |  |
 | ------- |
