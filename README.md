@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/SathishTECHY/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/SathishTECHY/LeetCode/tree/master/1651-shuffle-string) |
 | [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SathishTECHY/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SathishTECHY/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SathishTECHY/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/SathishTECHY/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SathishTECHY/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SathishTECHY/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/SathishTECHY/LeetCode/tree/master/3606-coupon-code-validator) |
