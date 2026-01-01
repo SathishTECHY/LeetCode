@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SathishTECHY/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/SathishTECHY/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SathishTECHY/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/SathishTECHY/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/SathishTECHY/LeetCode/tree/master/1651-shuffle-string) |
 | [1970-sorting-the-sentence](https://github.com/SathishTECHY/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/SathishTECHY/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SathishTECHY/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/SathishTECHY/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SathishTECHY/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathishTECHY/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SathishTECHY/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/SathishTECHY/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/SathishTECHY/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SathishTECHY/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
